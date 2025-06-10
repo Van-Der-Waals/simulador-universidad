@@ -1,0 +1,502 @@
+[
+    {
+        "pregunta": "Pregunta de razonamiento lógico 1",
+        "opciones": {
+            "A": "Opción A1",
+            "B": "Opción B1",
+            "C": "Opción C1",
+            "D": "Opción D1"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 2",
+        "opciones": {
+            "A": "Opción A2",
+            "B": "Opción B2",
+            "C": "Opción C2",
+            "D": "Opción D2"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 3",
+        "opciones": {
+            "A": "Opción A3",
+            "B": "Opción B3",
+            "C": "Opción C3",
+            "D": "Opción D3"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 4",
+        "opciones": {
+            "A": "Opción A4",
+            "B": "Opción B4",
+            "C": "Opción C4",
+            "D": "Opción D4"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 5",
+        "opciones": {
+            "A": "Opción A5",
+            "B": "Opción B5",
+            "C": "Opción C5",
+            "D": "Opción D5"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 6",
+        "opciones": {
+            "A": "Opción A6",
+            "B": "Opción B6",
+            "C": "Opción C6",
+            "D": "Opción D6"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 7",
+        "opciones": {
+            "A": "Opción A7",
+            "B": "Opción B7",
+            "C": "Opción C7",
+            "D": "Opción D7"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 8",
+        "opciones": {
+            "A": "Opción A8",
+            "B": "Opción B8",
+            "C": "Opción C8",
+            "D": "Opción D8"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 9",
+        "opciones": {
+            "A": "Opción A9",
+            "B": "Opción B9",
+            "C": "Opción C9",
+            "D": "Opción D9"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 10",
+        "opciones": {
+            "A": "Opción A10",
+            "B": "Opción B10",
+            "C": "Opción C10",
+            "D": "Opción D10"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 11",
+        "opciones": {
+            "A": "Opción A11",
+            "B": "Opción B11",
+            "C": "Opción C11",
+            "D": "Opción D11"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 12",
+        "opciones": {
+            "A": "Opción A12",
+            "B": "Opción B12",
+            "C": "Opción C12",
+            "D": "Opción D12"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 13",
+        "opciones": {
+            "A": "Opción A13",
+            "B": "Opción B13",
+            "C": "Opción C13",
+            "D": "Opción D13"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 14",
+        "opciones": {
+            "A": "Opción A14",
+            "B": "Opción B14",
+            "C": "Opción C14",
+            "D": "Opción D14"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 15",
+        "opciones": {
+            "A": "Opción A15",
+            "B": "Opción B15",
+            "C": "Opción C15",
+            "D": "Opción D15"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 16",
+        "opciones": {
+            "A": "Opción A16",
+            "B": "Opción B16",
+            "C": "Opción C16",
+            "D": "Opción D16"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 17",
+        "opciones": {
+            "A": "Opción A17",
+            "B": "Opción B17",
+            "C": "Opción C17",
+            "D": "Opción D17"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 18",
+        "opciones": {
+            "A": "Opción A18",
+            "B": "Opción B18",
+            "C": "Opción C18",
+            "D": "Opción D18"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 19",
+        "opciones": {
+            "A": "Opción A19",
+            "B": "Opción B19",
+            "C": "Opción C19",
+            "D": "Opción D19"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 20",
+        "opciones": {
+            "A": "Opción A20",
+            "B": "Opción B20",
+            "C": "Opción C20",
+            "D": "Opción D20"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 21",
+        "opciones": {
+            "A": "Opción A21",
+            "B": "Opción B21",
+            "C": "Opción C21",
+            "D": "Opción D21"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 22",
+        "opciones": {
+            "A": "Opción A22",
+            "B": "Opción B22",
+            "C": "Opción C22",
+            "D": "Opción D22"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 23",
+        "opciones": {
+            "A": "Opción A23",
+            "B": "Opción B23",
+            "C": "Opción C23",
+            "D": "Opción D23"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 24",
+        "opciones": {
+            "A": "Opción A24",
+            "B": "Opción B24",
+            "C": "Opción C24",
+            "D": "Opción D24"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 25",
+        "opciones": {
+            "A": "Opción A25",
+            "B": "Opción B25",
+            "C": "Opción C25",
+            "D": "Opción D25"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 26",
+        "opciones": {
+            "A": "Opción A26",
+            "B": "Opción B26",
+            "C": "Opción C26",
+            "D": "Opción D26"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 27",
+        "opciones": {
+            "A": "Opción A27",
+            "B": "Opción B27",
+            "C": "Opción C27",
+            "D": "Opción D27"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 28",
+        "opciones": {
+            "A": "Opción A28",
+            "B": "Opción B28",
+            "C": "Opción C28",
+            "D": "Opción D28"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 29",
+        "opciones": {
+            "A": "Opción A29",
+            "B": "Opción B29",
+            "C": "Opción C29",
+            "D": "Opción D29"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 30",
+        "opciones": {
+            "A": "Opción A30",
+            "B": "Opción B30",
+            "C": "Opción C30",
+            "D": "Opción D30"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 31",
+        "opciones": {
+            "A": "Opción A31",
+            "B": "Opción B31",
+            "C": "Opción C31",
+            "D": "Opción D31"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 32",
+        "opciones": {
+            "A": "Opción A32",
+            "B": "Opción B32",
+            "C": "Opción C32",
+            "D": "Opción D32"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 33",
+        "opciones": {
+            "A": "Opción A33",
+            "B": "Opción B33",
+            "C": "Opción C33",
+            "D": "Opción D33"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 34",
+        "opciones": {
+            "A": "Opción A34",
+            "B": "Opción B34",
+            "C": "Opción C34",
+            "D": "Opción D34"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 35",
+        "opciones": {
+            "A": "Opción A35",
+            "B": "Opción B35",
+            "C": "Opción C35",
+            "D": "Opción D35"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 36",
+        "opciones": {
+            "A": "Opción A36",
+            "B": "Opción B36",
+            "C": "Opción C36",
+            "D": "Opción D36"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 37",
+        "opciones": {
+            "A": "Opción A37",
+            "B": "Opción B37",
+            "C": "Opción C37",
+            "D": "Opción D37"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 38",
+        "opciones": {
+            "A": "Opción A38",
+            "B": "Opción B38",
+            "C": "Opción C38",
+            "D": "Opción D38"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 39",
+        "opciones": {
+            "A": "Opción A39",
+            "B": "Opción B39",
+            "C": "Opción C39",
+            "D": "Opción D39"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 40",
+        "opciones": {
+            "A": "Opción A40",
+            "B": "Opción B40",
+            "C": "Opción C40",
+            "D": "Opción D40"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 41",
+        "opciones": {
+            "A": "Opción A41",
+            "B": "Opción B41",
+            "C": "Opción C41",
+            "D": "Opción D41"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 42",
+        "opciones": {
+            "A": "Opción A42",
+            "B": "Opción B42",
+            "C": "Opción C42",
+            "D": "Opción D42"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 43",
+        "opciones": {
+            "A": "Opción A43",
+            "B": "Opción B43",
+            "C": "Opción C43",
+            "D": "Opción D43"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 44",
+        "opciones": {
+            "A": "Opción A44",
+            "B": "Opción B44",
+            "C": "Opción C44",
+            "D": "Opción D44"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 45",
+        "opciones": {
+            "A": "Opción A45",
+            "B": "Opción B45",
+            "C": "Opción C45",
+            "D": "Opción D45"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 46",
+        "opciones": {
+            "A": "Opción A46",
+            "B": "Opción B46",
+            "C": "Opción C46",
+            "D": "Opción D46"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 47",
+        "opciones": {
+            "A": "Opción A47",
+            "B": "Opción B47",
+            "C": "Opción C47",
+            "D": "Opción D47"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 48",
+        "opciones": {
+            "A": "Opción A48",
+            "B": "Opción B48",
+            "C": "Opción C48",
+            "D": "Opción D48"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 49",
+        "opciones": {
+            "A": "Opción A49",
+            "B": "Opción B49",
+            "C": "Opción C49",
+            "D": "Opción D49"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "Pregunta de razonamiento lógico 50",
+        "opciones": {
+            "A": "Opción A50",
+            "B": "Opción B50",
+            "C": "Opción C50",
+            "D": "Opción D50"
+        },
+        "respuesta_correcta": "A"
+    }
+]
